@@ -1,0 +1,14 @@
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\bin\Debug\net8.0\ExercicoAula3TecProgramacao.exe
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\bin\Debug\net8.0\ExercicoAula3TecProgramacao.deps.json
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\bin\Debug\net8.0\ExercicoAula3TecProgramacao.runtimeconfig.json
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\bin\Debug\net8.0\ExercicoAula3TecProgramacao.dll
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\bin\Debug\net8.0\ExercicoAula3TecProgramacao.pdb
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ExercicoAula3TecProgramacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ExercicoAula3TecProgramacao.AssemblyInfoInputs.cache
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ExercicoAula3TecProgramacao.AssemblyInfo.cs
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ExercicoAula3TecProgramacao.csproj.CoreCompileInputs.cache
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ExercicoAula3TecProgramacao.dll
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\refint\ExercicoAula3TecProgramacao.dll
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ExercicoAula3TecProgramacao.pdb
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ExercicoAula3TecProgramacao.genruntimeconfig.cache
+C:\Users\monalisab\OneDrive\Desktop\Curso ADA\AtividadesMe-Ferias\ExercicoAula3TecProgramacao\obj\Debug\net8.0\ref\ExercicoAula3TecProgramacao.dll
